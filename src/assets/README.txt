@@ -1,0 +1,1 @@
+Assets folder placeholder. Generated hero image is stored here.
